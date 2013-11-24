@@ -1,4 +1,3 @@
 websitesByKids
 ==============
-
-Websites created by kids
+Websites By Kids | Les site webs par les Jeunes

@@ -1,0 +1,77 @@
+body {
+	background-color:#bdcede;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#484848;
+}
+
+a, a:link {
+	color:#333333;
+	text-decoration: underline;
+}
+
+a:hover {
+	color:#333333;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#999999;
+	text-decoration:underline;
+}
+
+#wrap {
+	background-image:url(images/style2/wrap.jpg);
+}
+#header {
+	background-image:url(images/style2/header.jpg);
+}
+
+#header h1 {
+	text-align:left;
+	padding:250px 15px 0 0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:36px;
+	line-height:normal;
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+h1, h2, h3, h4,
+.itemhead h3, .itemhead h3 a,
+#header h1 a, #header h1 a:hover, #header h1 a:link, #header h1 a:visited, #header h1 a:active {
+	color:#444444;
+	text-decoration:none;
+}
+
+#header h4 {
+	width:90%;
+	margin:5px auto 0 auto;
+	font-size:10px;
+	font-weight:normal;
+	font-style:italic;
+	color:#aaaaaa;
+	text-align:left;
+}
+
+#menu ul li a {
+	color: #555555;
+}
+
+#menu ul li a:hover, #recentcomments li a:hover, #recentcomments li.recentcomments a:hover {
+	background-color:#e8f1f9;
+}
+
+#content {
+	background-image:url(images/style2/main-top.jpg);
+}
+
+input, textarea {
+	background-color:#e8f1f9;
+	border:1px solid #849aad;
+	color:#444444;
+}
+
+#footer {
+	background-image:url(images/style2/footer.jpg);
+}

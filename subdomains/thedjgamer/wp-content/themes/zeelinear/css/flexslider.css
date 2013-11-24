@@ -1,0 +1,117 @@
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+.zeeflexslider a:active,
+.zeeflexslider a:focus  {outline: none;}
+.zeeslides,
+.zeeflex-control-nav,
+.zeeflex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.zeeflexslider {margin: 0; padding: 0;}
+.zeeflexslider .zeeslides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.zeeflexslider .zeeslides img {width: 100%; display: block;}
+.zeeflex-pauseplay span {text-transform: capitalize;}
+
+/* Clearfix for the .zeeslides element */
+.zeeslides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .zeeslides {display: block;} 
+* html .zeeslides {height: 1%;}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .zeeslides > li:first-child {display: block;}
+
+/*  ThemeZee Slider Theme
+*****************************************/
+#frontpage-slider-container {
+	margin: 0 0 4em 0;
+	padding: 1em;
+	background: #fff;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	box-shadow: 0 0 20px #d0d0d0;
+}
+#frontpage-slider-wrap {
+	float: left;
+	width: 100%;
+}
+#frontpage-slider {
+	margin: 0;
+	background: transparent !important;
+	border: none !important;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	-o-border-radius: 0 !important;
+	border-radius: 0 !important;
+	box-shadow: none !important;
+}
+#frontpage-slider .zeeslide .type-post {
+	margin: 0;
+}
+#frontpage-slider-head {
+	float: left;
+	width: 100%;
+	font-weight: normal;
+	color: #333;
+	font-family: 'Trocchi', Verdana, Arial;
+	padding: 1em;
+	margin-bottom: 1em;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border-top: 7px solid #ddd;
+	border-bottom: 2px solid #ddd;
+}
+#frontpage-slider-head h2{
+	font-size: 1.2em;
+}
+#frontpage-slider-head .frontpage-slide-keys {
+	float: right;
+	margin: -0.4em -1em;
+}
+#frontpage-slider-head .frontpage-slide-keys ul li {
+	float: left;
+}
+#frontpage-slider-head .frontpage-slide-keys a {
+	display: block;
+	float: left;
+	padding: 0.7em 1em;
+	background: #08a000;
+	color: #fff;
+	margin-right: 0.5em;
+	font-size: 0.9em;
+}
+#frontpage-slider-head .frontpage-slide-keys a:hover {
+	background: #303030;
+	text-decoration: none;
+}
+/* Smartphones | <480px */
+@media only screen and (max-width: 30em) {
+	#frontpage-slider .zeeslide .type-post .alignright, 
+	#frontpage-slider .zeeslide .type-post .alignleft {
+		float: none;
+		margin: 1em 0;
+	}
+	#frontpage-slider-head .frontpage-slide-keys {
+		float: none;
+		margin: 0 0 1em -1em;
+	}
+	#frontpage-slider-head h2{
+		clear: both;
+		padding-top: 1em;
+	}
+}

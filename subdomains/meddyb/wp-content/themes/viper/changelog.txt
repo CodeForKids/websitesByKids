@@ -1,0 +1,35 @@
+
+---------------------------
+Version: 1.0.9 :
+Added a new skin.
+
+---------------------------
+Version: 1.0.8 :
+Added a new skin.
+
+---------------------------
+Version: 1.0.7 :
+Added a new skin.
+
+---------------------------
+Version: 1.0.6 :
+Added a new skin.
+
+---------------------------
+Version: 1.0.5 :
+Added a new skin.
+
+
+---------------------------
+Version: 1.0.4.1 :
+Added some default images.
+
+
+---------------------------
+Version: 1.0.4 :
+Minor change to options framework.
+
+
+---------------------------
+Version: 1.0.0 :
+Initial release.

@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zeeNews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-16 15:14+0100\n"
+"PO-Revision-Date: 2013-02-21 15:55+0100\n"
+"Last-Translator: Ulrich Pogson <grapplerulrich@gmail.com>\n"
+"Language-Team: ThemeZee <contact@themezee.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/404.php:9
+msgid "404 Error: Not found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/404.php:12
+msgid ""
+"The page you trying to reach does not exist, or has been moved. Please use "
+"the menus or the search box to find what you are looking for"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/404.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:27
+msgid "Latest Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/404.php:28
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:38
+msgid "Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:5
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/author.php:8
+msgid "Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:7
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:8
+msgid "Tag Archive for"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/sidebar.php:36
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:48
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/author.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/index.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/search.php:19
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/archive.php:23
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/author.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/index.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/search.php:19
+msgid "Recent Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/comments.php:8
+msgid "Enter password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/comments.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:198
+msgid "No comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/comments.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:198
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/comments.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:198
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:67
+msgid "Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:68
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:90
+msgid "Sidebar Top"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:91
+msgid "Sidebar Left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:92
+msgid "Sidebar Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:93
+msgid "Sidebar Bottom"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:96
+msgid "Footer Sidebar Left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:97
+msgid "Footer Sidebar Center Left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:98
+msgid "Footer Sidebar Center Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:99
+msgid "Footer Sidebar Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:151
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:165
+msgid "Wordpress Theme by ThemeZee"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:187
+msgid "Posted on"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:188
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:190
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/page.php:10
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-full.php:15
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:15
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-slider.php:22
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/functions.php:199
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/image.php:32
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/image.php:33
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/image.php:34
+msgid "Return to Gallery"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/image.php:34
+msgid "Return to"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/loop-single.php:18
+msgid "Tags: "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/loop-slide.php:12
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/loop.php:12
+msgid "Read more"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/search.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/search.php:25
+msgid "Search results for "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/search.php:30
+msgid ""
+"No matches. Please try again, or use the navigation menus to find what you "
+"search for."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/sidebar.php:28
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/sidebar.php:29
+msgid ""
+"Go to WP-Admin > Appearance > Widgets to place your favorite Widgets here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:43
+msgid "Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:53
+msgid "Posts by Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/template-sitemap.php:57
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:5
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:27
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:30
+msgid "Theme settings updated successfully."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:53
+msgid "Save Changes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:71
+msgid "Theme Data"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:73
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:74
+msgid "Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:75
+msgid "(Changelog)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:76
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:81
+msgid "Upgrade"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:84
+msgid "Check out the PRO Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:85
+msgid "Join the Theme Club and get Support"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:90
+msgid "About ThemeZee"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:92
+msgid "ThemeZee provides several stunning <b>Freemium WordPress Themes</b>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:93
+msgid ""
+"That means you can download and use every theme <b>for FREE</b>, and only "
+"pay to get more features, better theme tutorials and advanced theme support!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:94
+msgid "Visit ThemeZee.com now"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:98
+msgid "Subscribe Now"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:100
+msgid ""
+"Subscribe now and get informed about each <b>Theme Release</b> from ThemeZee."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:102
+msgid "RSS Feed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:103
+msgid "Email Subscription"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:104
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:105
+msgid "Become a Facebok Fan"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:120
+msgid "Thank you for installing this theme!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:122
+msgid "Welcome to"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:124
+msgid ""
+"First of all, the number of options might alarm you, <b>but don't panic</b>. "
+"Everything is organized and documented well enough for you."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:129
+msgid "Want more features?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:131
+msgid "Check out"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:132
+msgid ""
+"The <b>PRO Version</b> provide additional features to <b>customize</b> and "
+"configure your Theme."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:142
+msgid "Learn more about the PRO Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:147
+msgid "Need support?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:149
+msgid "Join the Theme Club"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:150
+msgid ""
+"You want <b>top-notch Support</b> for installing and configuring your Theme? "
+"Become a <b>Member</b>!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:158
+msgid "Learn more about the Theme Club"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:165
+msgid "Not happy with"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:167
+msgid "ThemeZee.com provide several other <b>free WordPress Themes</b>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:168
+msgid "Click here to browse through all of my themes."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-admin.php:276
+msgid "Upload Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:9
+msgid "Welcome"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:10
+msgid "General"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:11
+msgid "Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:12
+msgid "Post Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:13
+msgid "Social Media"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:14
+msgid "Ads"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/theme-functions.php:112
+msgid "Use this Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:7
+msgid "125x125 Sidebar Banner"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:19
+msgid "Rotate banners?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:20
+msgid "Check this to randomly rotate the ad spots."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:40
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:54
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:68
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:82
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:96
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:110
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:124
+msgid "Ad Spot Image URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:27
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:41
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:69
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:83
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:97
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:111
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:125
+msgid "Enter the image URL for this ad spot."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:47
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:89
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:117
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:131
+msgid "Ad Spot Destination"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:48
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:76
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:90
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:104
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:118
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-ads.php:132
+msgid "Enter the URL where this ad spot points to."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:7
+msgid "Predefined Color Schemes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:10
+msgid "Custom Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:18
+msgid "Black"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:19
+msgid "Green"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:20
+msgid "Orange"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:21
+msgid "Purple"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:22
+msgid "Red"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:23
+msgid "Teal"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:24
+msgid "Standard"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:32
+msgid "Please select your color scheme here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:40
+msgid "Active Custom Colors?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:41
+msgid "Check this to activate the Custom Color Function."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:47
+msgid "Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-colors.php:48
+msgid "Select the color of your theme here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-general.php:7
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-general.php:19
+msgid "Paste the full Image URL of your logo."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-general.php:25
+msgid "Footer Content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-general.php:26
+msgid "Enter here the content which is displayed in the footer."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-general.php:32
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-general.php:33
+msgid "Place your Custom CSS code here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:7
+msgid "Featured Posts Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:25
+msgid "Show Post Slider?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:26
+msgid "Check this if you want to show the Featured Post Slider."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:32
+msgid "Slider Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:33
+msgid "Enter here your headline which is displayed above the featured posts."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:51
+msgid " Slider Content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:57
+msgid "Show recent posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:58
+msgid "Show popular posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:61
+msgid "Slider Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:62
+msgid ""
+"Select a category which posts are displayed at the featured posts slider ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:69
+msgid "Number of Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-slider.php:70
+msgid "Enter the number how much posts should be displayed in the post slider."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:7
+msgid "Social Media Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:20
+msgid "Enter the URL to your Twitter Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:27
+msgid "Enter the URL to your Facebook Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:34
+msgid "Enter the URL to your Google+ profile."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:41
+msgid "Enter the URL to your Pinterest profile."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:48
+msgid "Enter the URL to your Instagram profile."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:55
+msgid "Enter the URL to your LinkedIn Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:62
+msgid "Enter the URL to your Blogger Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:69
+msgid "Enter the URL to your Tumblr Blog here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:76
+msgid "Enter the URL to your Typepad Blog here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:83
+msgid "Enter the URL to your Wordpress.com Blog here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:90
+msgid "Enter the URL to your Flickr Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:97
+msgid "Enter the URL to your Soundcloud Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:104
+msgid "Enter the URL to your Spotify Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:111
+msgid "Enter the URL to your Last.fm Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:118
+msgid "Enter the URL to your Youtube Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:125
+msgid "Enter the URL to your Vimeo Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:132
+msgid "Enter the URL to your DeviantART Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:139
+msgid "Enter the URL to your Dribbble Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:146
+msgid "Enter the URL to your Delicious Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:153
+msgid "Enter the URL to your Digg Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:160
+msgid "Enter the URL to your StumpleUpon Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:167
+msgid "Enter your RSS URL (e.g. Feedburner Feed) here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:174
+msgid "Enter your Email URL (e.g. Feedburner Email Subscription) here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:181
+msgid "Enter the URL to your Friendfeed Profile here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/admin/options/options-social.php:188
+msgid "Enter your Skype Contact here."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-ads.php:6
+msgid "Show your 125x125 Banner Ads"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-ads.php:52
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-socialmedia.php:160
+msgid "Go to WP-Admin-> Appearance-> Theme Options to configure this widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-ads.php:72
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-socialmedia.php:185
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-ads.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-socialmedia.php:188
+msgid "Open links in a new window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\zeeNews/includes/widgets/theme-widget-socialmedia.php:5
+msgid "Show your Social Media Buttons"
+msgstr ""

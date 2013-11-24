@@ -1,0 +1,16 @@
+a, a:link, a:visited, .comment a:link, .wp-pagenavi a .comment a:visited, #frontpage_pagination .slide_page h3,
+.post-title, .post-title a:link, .post-title a:visited, #respond h3, .bypostauthor .fn,
+#sidebar a:link, #sidebar a:visited, #frontpage_widgets a:link, #frontpage_widgets a:visited
+{
+	color: #e34c00;
+}
+.wp-pagenavi .current
+{
+	background-color: #e34c00;
+}
+#header, #foot_wrap {
+	background-color: #e34c00;
+}
+.sticky {
+	border-left: 2px solid #e34c00;
+}

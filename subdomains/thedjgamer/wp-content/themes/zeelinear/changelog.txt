@@ -1,0 +1,25 @@
+===================================
+zeeLinear Changelog
+===================================
+
+Version 1.0.3
+-----------------------------------
+[added] unique name for theme options array in the database
+[fixed] different language text domains
+
+Version 1.0.2
+-----------------------------------
+[added] Text Domain in style.css
+[added] pluggable function to display custom header image
+[changed] made all text strings translatable
+[changed] validation of email icon from esc_url to esc_attr
+[changed] implementation of comment-reply.js
+
+Version 1.0.1
+-----------------------------------
+[changed] implementation of comment-reply.js
+[fixed] escaping home_url() with esc_url() in template-tags.php
+
+Version 1.0
+-----------------------------------
+Final Version

@@ -28,7 +28,8 @@
 			font-family: 'Arial';
 			font-size: 200%;
 		}
-		.card p { color: white; text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000; }
+		.card { background-color: #469ad0; }
+		.card p { color: white; text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000; overflow: hidden;}
 		.card:hover { 
 		    -webkit-box-shadow: 0px 0px 100px rgba(70, 154, 208, 0.2);
 			-moz-box-shadow: 0px 0px 100px rgba(70, 154, 208, 0.2);

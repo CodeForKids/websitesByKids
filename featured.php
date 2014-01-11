@@ -57,7 +57,7 @@
 
 					$dirName = $subdir->getBaseName();
 					//Print the subdirectory name 
-					if (file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false) {
+					if (file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false && $subdir != 'ayal') {
 						if (strpos($texthtml,'Hello World!') === false) {
 							array_push($dirs, $subdir->getBaseName());
 						}

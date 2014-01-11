@@ -143,17 +143,17 @@
 
 					$dirName = $subdir->getBaseName();
 					//Print the subdirectory name 
-					if (file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false) {
+					if ($subdir != 'ayal' && file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false) {
 					
 					 $texthtml = file_get_contents('/var/www/subdomains/' . $subdir . '/index.html');
 					 preg_match('/<img.+src=[\'"](?P<src>.+)[\'"].*>/i', $texthtml, $image);
 					 $imageURL = split("\"",$image['src'])[0];
-					 if (strpos($imageURL, 'http://') === false) { $imageURL = 'http://' . $subdir . '.codebykids.com/' . $imageURL;  }
+					 if (strpos($imageURL, 'http://') === false) { $imageURL = 'http://' . $subdir . '.codebykids.ca/' . $imageURL;  }
 					 if (strpos($texthtml,'Hello World!') === false) {
 					
 					?>
 					<div class="card-container">
-						<a class="card" style="background-image: url('<?php print $imageURL; ?>'); background-size: 100%;" href="http://<?php echo $dirName; ?>.codebykids.com"><p style="padding-top: 20px;"><?php echo $dirName; ?></p></a><br> 
+						<a class="card" style="background-image: url('<?php print $imageURL; ?>'); background-size: 100%;" href="http://<?php echo $dirName; ?>.codebykids.ca"><p style="padding-top: 20px;"><?php echo $dirName; ?></p></a><br> 
 					</div>
 					<?php
 					}

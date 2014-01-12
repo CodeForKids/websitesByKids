@@ -5,78 +5,56 @@
 
 <head>
 
-	<script async="" src="//s.shopify.com/javascripts/shopify_stats.js?v=6"
-	type="text/javascript"></script>
-	<style>
-		.inner-left, .inner-right {
-		width: 42%;
-		padding: 4%;
-		padding-top: 0px;
-		}
-		.container .eight.columns, .card {
-			-webkit-box-shadow: 0px 0px 50px rgba(50, 50, 50, 0.2);
-			-moz-box-shadow: 0px 0px 50px rgba(50, 50, 50, 0.2);
-			box-shadow: 0px 0px 50px rgba(50, 50, 50, 0.2);
-			padding: 5px;
-			height: 100%;
-			width: 100%;
-			float: left;
-			padding: 5px;
-			text-align: center;
-			text-transform: uppercase;
-			font-weight: 900;
-			font-family: 'Arial';
-			font-size: 200%;
-		}
-		.card { background-color: #469ad0; }
-		.card p { color: white; text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000; overflow: hidden;}
-		.card:hover { 
-		    -webkit-box-shadow: 0px 0px 100px rgba(70, 154, 208, 0.2);
-			-moz-box-shadow: 0px 0px 100px rgba(70, 154, 208, 0.2);
-			box-shadow: 0px 0px 100px rgba(70, 154, 208, 0.2);
-			-webkit-transition: all 0.2s linear;
-			-o-transition: all 0.2s linear;
-			-moz-transition: all 0.2s linear;
-			-ms-transition: all 0.2s linear;
-			-kthtml-transition: all 0.2s linear;
-			transition: all 0.2s linear;
-		}
-		.card-container {
-				width: 20%;
-				float: left;
-				margin: 1.25%;
-				height: 100px;
-				padding: 1.25%;
-		}
-		@media all and (max-width: 1200px) {
-		.container .main { width: 100%; }
-		}
-	</style>
 	<meta charset="utf-8">
-	<meta content="on" http-equiv="cleartype">
-	<meta content="index,follow" name="robots">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<title>Code By Kids | Code For Kids</title>
-	<meta content="" name="description">
-	<meta content="summary" name="twitter:card">
-	<meta content="@CodeForKids" name="twitter:site">
-	<meta content="@CodeForKids" name="twitter:creator">
+	<meta name="description" content="These are the websites that kids make in the STEM-based Code For Kids Program. This is their showcase.">
+	<meta name="keywords" content="responsive, grid, system, web design">
+
+	<meta name="author" content="codeforkids.ca">
+
+	<meta http-equiv="cleartype" content="on">
+	<meta content="index,follow" name="robots">
+	<link href=
+	"//cdn.shopify.com/s/files/1/0223/1913/t/6/assets/favicon.png?9252" rel=
+	"shortcut icon" type="image/x-icon">
+
 	<meta content=
 	"http://cdn.shopify.com/s/files/1/0223/1913/files/Social_Media_Logo_grande.png?2334">
 	<meta content=
 	"https://cdn.shopify.com/s/files/1/0223/1913/files/Social_Media_Logo_grande.png?2334">
 	<meta content=
 	"http://cdn.shopify.com/s/files/1/0223/1913/t/6/assets/logo.png?9252">
-	<meta content="http://code-for-kids.ca/collections/toronto">
-	<meta content="Toronto">
-	<meta content="">
-	<meta content="website">
-	<meta content="Code For Kids">
-	<meta content="Code For Kids" name="author"><!-- Mobile Specific Metas -->
-	<meta content="True" name="HandheldFriendly">
-	<meta content="320" name="MobileOptimized">
-	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name=
-	"viewport"><!-- Stylesheets -->
+
+	<!-- Responsive and mobile friendly stuff -->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="css/html5reset.css" media="all">
+	<link rel="stylesheet" href="css/responsivegridsystem.css" media="all">
+	<link rel="stylesheet" href="css/col.css" media="all">
+	<link rel="stylesheet" href="css/2cols.css" media="all">
+	<link rel="stylesheet" href="css/3cols.css" media="all">
+	<link rel="stylesheet" href="css/4cols.css" media="all">
+	<link rel="stylesheet" href="css/5cols.css" media="all">
+	<link rel="stylesheet" href="css/6cols.css" media="all">
+	<link rel="stylesheet" href="css/7cols.css" media="all">
+	<link rel="stylesheet" href="css/8cols.css" media="all">
+	<link rel="stylesheet" href="css/9cols.css" media="all">
+	<link rel="stylesheet" href="css/10cols.css" media="all">
+	<link rel="stylesheet" href="css/11cols.css" media="all">
+	<link rel="stylesheet" href="css/12cols.css" media="all">
+
+	<!-- Responsive Stylesheets -->
+	<link rel="stylesheet" media="only screen and (max-width: 1024px) and (min-width: 769px)" href="/css/1024.css">
+	<link rel="stylesheet" media="only screen and (max-width: 768px) and (min-width: 481px)" href="/css/768.css">
+	<link rel="stylesheet" media="only screen and (max-width: 480px)" href="/css/480.css">
+
+	<!-- Shopify Sheets -->
 	<link href=
 	"//cdn.shopify.com/s/files/1/0223/1913/t/6/assets/styles.css?9252" media=
 	"all" rel="stylesheet" type="text/css"><!--[if lte IE 9]>
@@ -85,21 +63,15 @@
 	<!--[if lte IE 7]>
 	  //cdn.shopify.com/s/files/1/0223/1913/t/6/assets/lte-ie7.js?9252
 	<![endif]-->
-	<!-- Icons -->
-	<link href=
-	"//cdn.shopify.com/s/files/1/0223/1913/t/6/assets/favicon.png?9252" rel=
-	"shortcut icon" type="image/x-icon">
-	<link href="http://code-for-kids.ca/collections/toronto" rel="canonical">
-	<!-- Custom Fonts -->
-	<link href=
-	"//fonts.googleapis.com/css?family=.|Open+Sans:light,normal,bold|Open+Sans:light,normal,bold|PT+Sans+Narrow:light,normal,bold|Merriweather:light,normal,bold"
-	rel="stylesheet" type="text/css"><!-- jQuery and jQuery fallback -->
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	<link rel="stylesheet" href="/global/theme-controls.css" type="text/css">
-	<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
-	<body class="collection" id="//cdn.shopify.com/s/files/1/0223/1913/t/6/assets/Nov_16_toronto.pdf?9252"><nav id="cart" class="mmenu mmenu-right mmenu-horizontal">
-		</nav><nav id="nav" class="mmenu mmenu-left mmenu-horizontal">
+	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
+	<script src="js/modernizr-2.5.3-min.js"></script>
+
+	</head>
+	<body>
+		<nav id="cart" class="mmenu mmenu-right mmenu-horizontal">
+		</nav>
+		<nav id="nav" class="mmenu mmenu-left mmenu-horizontal">
 		  <ul id="mmenu-p1-0" class="mmenu-subopened mmenu-subopening">
 				<li><a class="mmenu-subopen" href="#mmenu-s1-0"></a><a href="http://code-for-kids.ca" title="Code For Kids">Code For Kids</a>
 				</li>
@@ -130,15 +102,20 @@
 		  </div>
 		</div>
 	  </div>
-		<div class="container main content"> 
-			 <div style="height: 100px; padding-left: 3%;"><img src="Code By Kids.png" alt="Code By Kids logo"></div>
-			 <div class="card-container"></div>
+
+
+	<div id="maincontentcontainer">
+		<div id="maincontent">
+
 			  <?php 
 				//Make the iterator for the temp directory 
 				$dir = new DirectoryIterator('/var/www/subdomains'); 
+				$index = 0;
 
 				//Loop through all the subdirectories 
 				foreach ($dir as $subdir) { 
+					if ($index < 4) { echo '<div class="section group">'; }
+
 					if (!$subdir->isDir() || $subdir->isDot()) continue; 
 
 					$dirName = $subdir->getBaseName();
@@ -152,15 +129,21 @@
 					 if (strpos($texthtml,'Hello World!') === false) {
 					
 					?>
-					<div class="card-container">
+					<div class="col span_1_of_4">
 						<a class="card" style="background-image: url('<?php print $imageURL; ?>'); background-size: 100%;" href="http://<?php echo $dirName; ?>.codebykids.ca"><p style="padding-top: 20px;"><?php echo $dirName; ?></p></a><br> 
 					</div>
 					<?php
 					}
 					}
+
+				if ($index < 4) { echo '</div>'; $index = 0; }
 				} 
 			?>
+	  
 	  </div>
+	</div>
+
+
 	  <div class="sub-footer">
 	  <div class="container main content"> 
 		  <div class="inner-left">

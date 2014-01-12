@@ -98,6 +98,9 @@
 	<div class="mmenu-page">
 	  <div class="hidden">
 	  </div>
+	  <div id="header">
+	        <a href="http://codeforkids.ca" class="icon-menu"> <span style="line-height: 18px"><img src="//cdn.shopify.com/s/files/1/0223/1913/t/8/assets/favicon.png?11124" alt="code for kids logo" style="margin-bottom: -3px; height: 18px !important;">&nbsp; Code For Kids</span></a>
+	  </div>
 	  <div class="header header_bar">
 		<div class="container"> 
 		  <div class="four columns logo">

@@ -3,20 +3,16 @@ var keys = document.querySelectorAll('#calculator span');
 var operators = ['+', '-', 'x', '÷'];
 var decimalAdded = false;
 
-
 for(var i = 0; i < keys.length; i++) {
 	keys[i].onclick = function(e) {
 		var input = document.querySelector('.screen');
 		/*********
-			Enter your code here!
+		 Enter your code here!
 		*********/
-		
-		
-		
-
-		
-		
-		 if() {
+		var inputVal = input.innerHTML;
+		var btnVal = this.innerHTML;
+				
+		if(btnVal == '=') {
 		
 			/* Don't touch this stuff!*/
 			var equation = inputVal;
@@ -26,27 +22,21 @@ for(var i = 0; i < keys.length; i++) {
 				equation = equation.replace(/.$/, '');
 
 			/*********
-				Enter your code for calculating here!
+			 Enter your code for calculating here!
 			*********/
 			inputVal = equation;
 			if(equation){
-				
+				input.innerHTML = eval(inputVal);	
 			}
-			
-			
-			
-			
 			
 			decimalAdded = false;
 		}
 		
-		else if() {
+		else if(btnVal == 'C') {
 		/*********
-			Enter the code to clear the screen here!
+		 Enter the code to clear the screen here!
 		*********/
-		
-		
-		
+			input.innerHTML = '';
 		}
 	 
 	 /*Don't touch anything below this line! */
@@ -70,7 +60,7 @@ for(var i = 0; i < keys.length; i++) {
 				input.innerHTML = inputVal.replace(/.$/, btnVal);
 			}
 			
-			decimalAdded =false;
+			decimalAdded = false;
 		}
 		
 		// Now only the decimal problem is left. We can solve it easily using a flag 'decimalAdded' which we'll set once the decimal is added and prevent more decimals to be added once it's set. It will be reset when an operator, eval or clear key is pressed.

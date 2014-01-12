@@ -7,16 +7,13 @@ var decimalAdded = false;
 for(var i = 0; i < keys.length; i++) {
 	keys[i].onclick = function(e) {
 		var input = document.querySelector('.screen');
-		/*********
-			Enter your code here!
-		*********/
 		
-		
-		
+		var inputVal=input.innerHTML;
+		var btnVal=this.innerHTML;
 
 		
 		
-		 if() {
+		 if(btnVal=='='){
 		
 			/* Don't touch this stuff!*/
 			var equation = inputVal;
@@ -29,7 +26,7 @@ for(var i = 0; i < keys.length; i++) {
 				Enter your code for calculating here!
 			*********/
 			inputVal = equation;
-			if(equation){
+			if(equation){input.innerHTML=eval(inputVal);
 				
 			}
 			
@@ -40,12 +37,12 @@ for(var i = 0; i < keys.length; i++) {
 			decimalAdded = false;
 		}
 		
-		else if() {
+		else if(btnVal=='C') {
 		/*********
 			Enter the code to clear the screen here!
 		*********/
 		
-		
+		input.innerHTML='';
 		
 		}
 	 

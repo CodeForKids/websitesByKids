@@ -17,7 +17,7 @@
 }
 
 html{
-	background-color: #000100;
+	background-color: #fd5803;
 }
 
 body {
@@ -30,7 +30,7 @@ body > img {
 }
 
 body h1 {
-	color: white;
+	color: black;
 }
 
 /* Using box shadows to create 3D effects */
@@ -120,7 +120,7 @@ body h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-	background: #EC7331;
+	background: #eb4836;
 	margin-right: 0;
 }
 

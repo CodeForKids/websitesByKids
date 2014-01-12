@@ -91,7 +91,7 @@ body h1 {
 	min-width: 24%;
 	min-height: 18%;
 	
-	background: white;
+	background: red;
 	border-radius: 3px;
 	/*box-shadow: 0px 4px rgba(0, 0, 0, 0.2);*/
 	
@@ -125,31 +125,31 @@ body h1 {
 }
 
 .keys span.eval {
-	background: #EC7331;
-	/*box-shadow: 0px 4px #E75113;*/
+	background: #red;
+	/*box-shadow: 0px 4px #yellow;*/
 	color: #000100;
 }
 
 .top span.clear {
-	background: #EC7331;
-	/*box-shadow: 0px 4px #E75113;*/
+	background: #red;
+	/*box-shadow: 0px 4px #yellow;*/
 	color: #000100;
 }
 
 /* Some hover effects */
 .keys span:hover {
-	background: #e75113;
-	color: white;
+	background: #red;
+	color: green;
 }
 
 .keys span.eval:hover {
-	background: #e75113;
-	color: #ffffff;
+	background: #ECC77676;
+	color: #green;
 }
 
 .top span.clear:hover {
-	background: #e75113;
-	color: white;
+	background: #red;
+	color: green;
 }
 
 /* Simulating "pressed" effect on active state of the keys by removing the box-shadow and moving the keys down a bit */

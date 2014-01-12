@@ -44,7 +44,7 @@ body h1 {
 	margin: 50px auto 100px auto;
 	padding: 20px 20px 9px;
 
-	background: #469ad0;
+	background: #ccd700;
 }
 
 /* Top portion */
@@ -91,7 +91,7 @@ body h1 {
 	min-width: 24%;
 	min-height: 18%;
 	
-	background: white;
+	background: grey;
 	border-radius: 3px;
 	/*box-shadow: 0px 4px rgba(0, 0, 0, 0.2);*/
 	
@@ -120,12 +120,12 @@ body h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-	background: #EC7331;
+	background: grey;
 	margin-right: 0;
 }
 
 .keys span.eval {
-	background: #EC7331;
+	background: grey;
 	/*box-shadow: 0px 4px #E75113;*/
 	color: #000100;
 }
@@ -148,7 +148,7 @@ body h1 {
 }
 
 .top span.clear:hover {
-	background: #e75113;
+	background:orange ;
 	color: white;
 }
 

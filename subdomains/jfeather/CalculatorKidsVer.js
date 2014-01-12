@@ -10,15 +10,16 @@ for(var i = 0; i < keys.length; i++) {
 		/*********
 			Enter your code here!
 		*********/
+		var inputVal=input.innerHTML; 
+	    var btnVal=this.innerHTML;
 		
-		
-		
+	    
 
 		
 		
-		 if() {
+		 if(btnVal=='=') {
 		
-			/* Don't touch this stuff!*/
+	    	/* Don't touch this stuff!*/
 			var equation = inputVal;
 			var lastChar = equation[equation.length - 1];
 			equation = equation.replace(/x/g, '*').replace(/÷/g, '/');
@@ -30,7 +31,7 @@ for(var i = 0; i < keys.length; i++) {
 			*********/
 			inputVal = equation;
 			if(equation){
-				
+			input.innerHTML=eval(inputVal);   	
 			}
 			
 			
@@ -40,11 +41,11 @@ for(var i = 0; i < keys.length; i++) {
 			decimalAdded = false;
 		}
 		
-		else if() {
+		else if(btnVal=='C') {
 		/*********
 			Enter the code to clear the screen here!
 		*********/
-		
+		input.innerHTML=''; 
 		
 		
 		}

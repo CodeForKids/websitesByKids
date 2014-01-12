@@ -17,7 +17,7 @@
 }
 
 html{
-	background-color: #000100;
+	background-color: green;
 }
 
 body {
@@ -30,7 +30,7 @@ body > img {
 }
 
 body h1 {
-	color: white;
+	color:white ;
 }
 
 /* Using box shadows to create 3D effects */
@@ -44,7 +44,8 @@ body h1 {
 	margin: 50px auto 100px auto;
 	padding: 20px 20px 9px;
 
-	background: #469ad0;
+	background-image: ound: 
+	;
 }
 
 /* Top portion */
@@ -91,7 +92,7 @@ body h1 {
 	min-width: 24%;
 	min-height: 18%;
 	
-	background: white;
+	background:yellow;
 	border-radius: 3px;
 	/*box-shadow: 0px 4px rgba(0, 0, 0, 0.2);*/
 	
@@ -120,7 +121,7 @@ body h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-	background: #EC7331;
+	background: #;
 	margin-right: 0;
 }
 
@@ -138,8 +139,9 @@ body h1 {
 
 /* Some hover effects */
 .keys span:hover {
-	background: #e75113;
-	color: white;
+	background: 55332
+	;
+	color:background-color: t;
 }
 
 .keys span.eval:hover {
@@ -149,7 +151,7 @@ body h1 {
 
 .top span.clear:hover {
 	background: #e75113;
-	color: white;
+	color: green;
 }
 
 /* Simulating "pressed" effect on active state of the keys by removing the box-shadow and moving the keys down a bit */

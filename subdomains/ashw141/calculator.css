@@ -88,10 +88,10 @@ body h1 {
 	
 	cursor: pointer;
 	
-	min-width: 24%;
+	min-width: 17%;
 	min-height: 18%;
 	
-	background: white;
+	background: orange;
 	border-radius: 3px;
 	/*box-shadow: 0px 4px rgba(0, 0, 0, 0.2);*/
 	
@@ -120,26 +120,26 @@ body h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-	background: #EC7331;
+	background: #red;
 	margin-right: 0;
 }
 
 .keys span.eval {
-	background: #EC7331;
+	background: #yellow;
 	/*box-shadow: 0px 4px #E75113;*/
-	color: #000100;
+	color: #purple;
 }
 
 .top span.clear {
-	background: #EC7331;
+	background: #red;
 	/*box-shadow: 0px 4px #E75113;*/
-	color: #000100;
+	color: #red;
 }
 
 /* Some hover effects */
 .keys span:hover {
-	background: #e75113;
-	color: white;
+	background: #purple;
+	color: green;
 }
 
 .keys span.eval:hover {

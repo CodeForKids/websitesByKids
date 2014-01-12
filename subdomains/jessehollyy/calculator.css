@@ -17,7 +17,7 @@
 }
 
 html{
-	background-color: #000100;
+	background-color:#050505;
 }
 
 body {
@@ -71,7 +71,7 @@ body h1 {
 	/* Typography */
 	font-size: 17px;
 	line-height: 70px;
-	color: white;
+	color: purple;
 	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 	text-align: right;
 	letter-spacing: 1px;
@@ -91,7 +91,7 @@ body h1 {
 	min-width: 24%;
 	min-height: 18%;
 	
-	background: white;
+	background: purple;
 	border-radius: 3px;
 	/*box-shadow: 0px 4px rgba(0, 0, 0, 0.2);*/
 	
@@ -120,7 +120,7 @@ body h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-	background: #EC7331;
+	background: blue;
 	margin-right: 0;
 }
 

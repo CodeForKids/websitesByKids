@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 	
 	/* Better text styling */
-	font: bold 14px Arial, sans-serif;
+	font: bold 20px Arial, sans-serif;
 
 	-webkit-user-select: none; /* Chrome/Safari */        
 	-moz-user-select: none; /* Firefox */
@@ -17,7 +17,7 @@
 }
 
 html{
-	background-color: #000100;
+	background-color: #1a9e1a;
 }
 
 body {
@@ -30,13 +30,13 @@ body > img {
 }
 
 body h1 {
-	color: white;
+	color: #960505;
 }
 
 /* Using box shadows to create 3D effects */
 #calculator {
 	min-width: 480px;
-	width: 50%;
+	width: 55%;
 
 	min-height: 480px;
 	height: 50%;
@@ -57,7 +57,7 @@ body h1 {
 	height: 17%;
 	width: 74%;
 
-	font-size: 40px !important;
+	font-size: 50px !important;
 	padding-top: 16px;
 	
 	float: right;
@@ -71,7 +71,7 @@ body h1 {
 	/* Typography */
 	font-size: 17px;
 	line-height: 70px;
-	color: white;
+	color: #7cba18;
 	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 	text-align: right;
 	letter-spacing: 1px;
@@ -86,7 +86,7 @@ body h1 {
 	position: relative;
 	top: 0;
 	
-	cursor: pointer;
+	cursor: hand;
 	
 	min-width: 24%;
 	min-height: 18%;
@@ -100,7 +100,7 @@ body h1 {
 	font-size: 40px;
 	padding-top: 20px;
 	
-	color: #000100;
+	color: #5c7725;
 	line-height: 36px;
 	text-align: center;
 	
@@ -127,7 +127,7 @@ body h1 {
 .keys span.eval {
 	background: #EC7331;
 	/*box-shadow: 0px 4px #E75113;*/
-	color: #000100;
+	color: #b92a52;
 }
 
 .top span.clear {

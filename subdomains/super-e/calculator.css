@@ -17,7 +17,7 @@
 }
 
 html{
-	background-color: #000100;
+	background-image:url(http://art.ngfiles.com/images/120/xephio_minecraft-creeper.jpg);
 }
 
 body {
@@ -30,7 +30,7 @@ body > img {
 }
 
 body h1 {
-	color: white;
+	color: orange;
 }
 
 /* Using box shadows to create 3D effects */

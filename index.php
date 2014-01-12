@@ -127,15 +127,15 @@
 					 $imageURL = split("\"",$image['src'])[0];
 					 if (strpos($imageURL, 'http://') === false) { $imageURL = 'http://' . $subdir . '.codebykids.ca/' . $imageURL;  }
 					 if (strpos($texthtml,'Hello World!') === false) {
-					 if ($index < 4) { echo '<div class="section group">'; }
+					 if ($index === 0) { echo '<div class="section group">'; }
 					?>
 					
-					<div class="col span_1_of_4">
-						<a class="card" style="background-image: url('<?php print $imageURL; ?>'); background-size: 100%;" href="http://<?php echo $dirName; ?>.codebykids.ca"><p style="padding-top: 20px;"><?php echo $dirName; ?></p></a><br> 
+					<div class="col span_1_of_4" style="background-image: url('<?php print $imageURL; ?>'); background-size: 100%; font-weight: 900; font-size: 25px;">
+						<a href="http://<?php echo $dirName; ?>.codebykids.ca"><p style="padding-top: 20px;"><?php echo $dirName; ?></p></a><br> 
 					</div>
 
 					<?php
-					if ($index < 4) { echo '</div>'; $index = 0; } else { $index = $index + 1; }
+					if ($index === 4) { echo '</div>'; $index = 0; } else { $index = $index + 1; }
 					}
 					}
 

@@ -67,6 +67,13 @@
 	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements and feature detects -->
 	<script src="js/modernizr-2.5.3-min.js"></script>
 
+	<style>
+	p {
+		text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+		color: white !important;
+	}
+	</style>
+
 	</head>
 	<body>
 		<nav id="cart" class="mmenu mmenu-right mmenu-horizontal">
@@ -135,7 +142,7 @@
 					</div>
 
 					<?php
-					if ($index === 4) { echo '</div>'; $index = 0; } else { $index = $index + 1; }
+					if ($index === 3) { echo '</div>'; $index = 0; } else { $index = $index + 1; }
 					}
 					}
 

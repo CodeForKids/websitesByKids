@@ -75,6 +75,9 @@
 	#maincontentcontainer {
 	padding-top: 100px;
 	}
+	.span_1_of_4 {
+		background-color: #469ad0;
+	}
 	</style>
 
 	</head>

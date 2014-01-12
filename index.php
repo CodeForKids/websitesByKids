@@ -135,7 +135,7 @@
 					</div>
 
 					<?php
-					if ($index < 4) { echo '</div>'; $index = 0; }
+					if ($index < 4) { echo '</div>'; $index = 0; } else { $index = $index + 1; }
 					}
 					}
 

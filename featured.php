@@ -57,7 +57,7 @@
 
 					$dirName = $subdir->getBaseName();
 					//Print the subdirectory name 
-					if (file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false && $subdir != 'ayal') {
+					if (file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false && $subdir != 'ayal' && $subdir != 'samantha' && $subdir != 'test' ) {
 						if (strpos($texthtml,'Hello World!') === false) {
 							array_push($dirs, $subdir->getBaseName());
 						}
@@ -78,7 +78,7 @@
 					
 						?>
 						<div class="card-container">
-							<a class="card" style="background-image: url('<?php print $imageURL; ?>'); background-size: 100%; background-color: #469ad0;" href="http://<?php echo $subdir; ?>.codebykids.com" target="_blank"><p style="padding-top: 5px;"><?php echo $subdir; ?></p></a><br> 
+							<a class="card" style="background-image: url('<?php print $imageURL; ?>'); background-size: auto 100%; background-color: #469ad0;" href="http://<?php echo $subdir; ?>.codebykids.com" target="_blank"><p style="padding-top: 5px;"><?php echo $subdir; ?></p></a><br> 
 						</div>
 						<?php
 						$count++;

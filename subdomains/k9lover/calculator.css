@@ -17,7 +17,7 @@
 }
 
 html{
-	background-color: #fd5803;
+	background-color: #f00000;
 }
 
 body {
@@ -26,7 +26,7 @@ body {
 
 body > img {
 	max-width: 480px;
-	padding-top: 20px;
+	padding-top: 30px;
 }
 
 body h1 {
@@ -44,7 +44,7 @@ body h1 {
 	margin: 50px auto 100px auto;
 	padding: 20px 20px 9px;
 
-	background: #469ad0;
+	background: #0004b0;
 }
 
 /* Top portion */
@@ -100,7 +100,7 @@ body h1 {
 	font-size: 40px;
 	padding-top: 20px;
 	
-	color: #000100;
+	color: #0374e4;
 	line-height: 36px;
 	text-align: center;
 	
@@ -120,7 +120,7 @@ body h1 {
 /* Remove right margins from operator keys */
 /* style different type of keys (operators/evaluate/clear) differently */
 .keys span.operator {
-	background: #eb4836;
+	background: #e80000;
 	margin-right: 0;
 }
 

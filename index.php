@@ -136,7 +136,7 @@
 
 					$dirName = $subdir->getBaseName();
 					//Print the subdirectory name 
-					if ($subdir != 'ayal' && file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false) {
+					if ($subdir != 'ayal' && $subdir != 'samantha' && $subdir != 'test' && file_exists('/var/www/subdomains/' . $subdir . '/wp-login.php') == false) {
 					
 					 $texthtml = file_get_contents('/var/www/subdomains/' . $subdir . '/index.html');
 					 preg_match('/<img.+src=[\'"](?P<src>.+)[\'"].*>/i', $texthtml, $image);
